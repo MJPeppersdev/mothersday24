@@ -7,7 +7,7 @@
     z-index: 10;
     border-radius: 50%;
     box-sizing: border-box;
-    background-image: url("mjplogo.png");
+    background-image: url("mjplogo.svg");
     background-position: center center;
     background-size: cover;
     opacity: 0.4;
